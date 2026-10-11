@@ -7,16 +7,6 @@ Interactive Power BI dashboard analysing road accidents and casualties in 2021 a
 ## Objective
 Turn raw road accident data into clear, actionable insights for road safety stakeholders: understand how casualties and accidents evolve, identify the most dangerous vehicle types, road types, areas and conditions, and support prevention and policy decisions.
 
-## Stakeholders
-- Ministry of Transport – road safety policy and infrastructure planning
-- Road Transport Department – regulation of roads and vehicles
-- Police forces – traffic law enforcement and accident response
-- Emergency services – immediate assistance to victims
-- Road Safety Corps – accident prevention and public education
-- Transport operators – safety and efficiency for passengers
-- Traffic management agencies – traffic regulation in high-density areas
-- Public and media – road safety statistics and awareness
-
 ## Requirements
 The client wanted a dashboard covering 2021 and 2022 with:
 1. **Primary KPI** – total casualties and total accidents for the current year, with year-over-year (YoY) growth.
