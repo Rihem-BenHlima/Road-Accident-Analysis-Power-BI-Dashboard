@@ -1,6 +1,6 @@
 # Road Accident Analysis – Power BI Dashboard
 
-Interactive Power BI dashboard analysing road accidents and casualties in 2021 and 2022.
+Interactive Power BI dashboard analysing road accidents and casualties in 2021 and 2022. 
 
 ![Road Accident Analysis Dashboard](images/Dashboard.png)
 
