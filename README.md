@@ -9,13 +9,13 @@ Turn raw road accident data into clear, actionable insights for road safety stak
 
 ## Requirements
 The client wanted a dashboard covering 2021 and 2022 with:
-1. **Primary KPI** – total casualties and total accidents for the current year, with year-over-year (YoY) growth.
-2. **Primary KPI (severity)** – casualties by accident severity (fatal, serious, slight) for the current year, with YoY growth.
-3. **Secondary KPI** – casualties by vehicle type for the current year.
-4. **Monthly trend** – monthly casualties, current year vs previous year.
-5. **Casualties by road type** – distribution for the current year.
-6. **Casualties by area and time of day** – urban vs rural, day vs night.
-7. **Casualties and accidents by location** – geographic map.
+1. **Primary KPI** – total casualties and total accidents for the current year, with year-over-year (YoY) growth
+2. **Primary KPI (severity)** – casualties by accident severity (fatal, serious, slight) for the current year, with YoY growth
+3. **Secondary KPI** – casualties by vehicle type for the current year
+4. **Monthly trend** – monthly casualties, current year vs previous year
+5. **Casualties by road type** – distribution for the current year
+6. **Casualties by area and time of day** – urban vs rural, day vs night
+7. **Casualties and accidents by location** – geographic map
 
 ## Dashboard content
 ### 1. Key Performance Indicators (2022 vs 2021)
@@ -79,9 +79,9 @@ Road accident dataset with the main columns:
 11. Insights
 
 ## How to open
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
-2. Download `Road Accident Analysis.pbix`.
-3. Open it in Power BI Desktop.
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows)
+2. Download `Road Accident Analysis.pbix`
+3. Open it in Power BI Desktop
 
 ## Tools
 Power BI Desktop · Power Query · DAX · PowerPoint (background design)
